@@ -1,0 +1,6 @@
+../Core/Src/microcontroller.cpp:28:6:void UARTtxMessage(const char*)	16	static
+../Core/Src/microcontroller.cpp:34:6:static void Microcontroller::testFDCAN()	88	static
+../Core/Src/microcontroller.cpp:87:6:static void Microcontroller::testSPI()	24	static
+../Core/Src/microcontroller.cpp:102:6:static void Microcontroller::testADC()	8	static
+../Core/Src/microcontroller.cpp:115:6:static void Microcontroller::testUART()	8	static
+../Core/Src/microcontroller.cpp:126:6:static void Microcontroller::test()	8	static

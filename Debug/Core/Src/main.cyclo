@@ -1,0 +1,11 @@
+../Core/Src/main.c:59:5:testmain	1
+../Core/Src/main.c:113:6:SystemClock_Config	4
+../Core/Src/main.c:173:6:MX_ADC1_Init	4
+../Core/Src/main.c:242:6:MX_FDCAN1_Init	2
+../Core/Src/main.c:295:6:MX_SPI1_Init	2
+../Core/Src/main.c:343:6:MX_TIM3_Init	4
+../Core/Src/main.c:388:6:MX_USART3_UART_Init	5
+../Core/Src/main.c:434:6:MX_DMA_Init	1
+../Core/Src/main.c:452:6:MX_GPIO_Init	1
+../Core/Src/main.c:504:6:MPU_Config	1
+../Core/Src/main.c:535:6:Error_Handler	1
